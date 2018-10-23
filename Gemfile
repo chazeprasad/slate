@@ -1,4 +1,4 @@
-ruby "2.4.1"
+ruby "2.3.3"
 
 source 'https://rubygems.org'
 
@@ -11,4 +11,5 @@ gem 'rouge', '~> 2.0.5'
 gem 'redcarpet', '~> 3.4.0'
 gem 'nokogiri', '~> 1.8.2'
 
+gem 'puma'
 
