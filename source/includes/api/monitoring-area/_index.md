@@ -86,3 +86,9 @@ This endpoint retrieves all Monitoring Areas.
 
 `GET https://alertizen.herokuapp.com/api/monitoring-areas`
 
+
+
+<aside class="success">
+Remember — On success you will get a list of Monitoring Areas
+</aside>
+

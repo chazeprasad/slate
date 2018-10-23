@@ -86,3 +86,9 @@ owner | Required | ID of the User.
 
 
 
+<aside class="success">
+Remember — On success you will be able to create a Monitoring Area
+</aside>
+
+
+

@@ -42,7 +42,7 @@ curl https://alertizen.herokuapp.com/api/monitoring-areas/1
 }
 ```
 
-This endpoint retrieves a specific Monitoring Area.
+This endpoint deletes a specific Monitoring Area.
 
 ### HTTP Request
 
@@ -52,5 +52,14 @@ This endpoint retrieves a specific Monitoring Area.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Monitoring Area to find.
+ID | Required | The ID of the Monitoring Area to delete.
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Monitoring Area by ID
+</aside>
+
+
+
 

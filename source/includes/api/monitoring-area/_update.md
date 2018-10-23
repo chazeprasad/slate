@@ -50,7 +50,7 @@ curl https://alertizen.herokuapp.com/api/monitoring-areas/1
 }
 ```
 
-This endpoint retrieves a specific Monitoring Area.
+This endpoint updates a specific Monitoring Area.
 
 ### HTTP Request
 
@@ -71,5 +71,10 @@ lng | Optional | Longitude of the Monitoring Area.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Monitoring Area to find.
+ID | Required | The ID of the Monitoring Area to update.
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Monitoring Area by ID
+</aside>
 

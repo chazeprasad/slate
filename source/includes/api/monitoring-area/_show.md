@@ -66,3 +66,9 @@ Parameter | Required | Description
 --------- | ------- | -----------
 ID | Required | The ID of the Monitoring Area to find.
 
+
+
+<aside class="success">
+Remember — On success you will get a specific Monitoring Area by ID
+</aside>
+
