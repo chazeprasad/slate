@@ -8,7 +8,7 @@ headers.push({ Accept: "application/vnd.alertizen+json;version=1;" } );
 headers.push({ Authorization: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9" } ); 
 
 const payload = {
-  is_active: true
+  is_active: true,
   email_id: "ricky@xyc.com", 
   owner: 1
 }
@@ -26,7 +26,7 @@ let headers: HTTPHeaders = [
 ]
 
 let payload: [String: Any] = [
-  "is_active": true
+  "is_active": true,
   "email_id": "ricky@xyc.com", 
   "owner": 1
 ]
@@ -42,7 +42,7 @@ curl https://alertizen.herokuapp.com/api/email-alerts
   -H "Accept: application/vnd.alertizen+json;version=1;"
   -H "Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
   -X POST
-  --data '{ "is_active": true "email_id": "ricky@xyc.com", "owner": 1 }'
+  --data '{ "is_active": true, "email_id": "ricky@xyc.com", "owner": 1 }'
 ```
 
 > The above command returns JSON structured like this:
