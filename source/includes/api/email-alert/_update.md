@@ -50,7 +50,7 @@ curl https://alertizen.herokuapp.com/api/email-alerts/1
 }
 ```
 
-This endpoint retrieves a specific Email Alert Settings.
+This endpoint updates a specific Email Alert Settings.
 
 ### HTTP Request
 
@@ -69,5 +69,12 @@ email_id | Optional | Email ID of the Email Alert Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Email Alert Settings to find.
+ID | Required | The ID of the Email Alert Settings to update.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Email Alert Settings by ID
+</aside>
 

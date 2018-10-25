@@ -49,7 +49,7 @@ curl https://alertizen.herokuapp.com/api/beats/1
 }
 ```
 
-This endpoint retrieves a specific Beats.
+This endpoint updates a specific Beats.
 
 ### HTTP Request
 
@@ -68,5 +68,12 @@ vertices | Optional | Coordinates of the Beats
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Beats to find.
+ID | Required | The ID of the Beats to update.
 
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Beats by ID
+</aside>

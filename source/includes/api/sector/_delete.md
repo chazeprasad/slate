@@ -43,7 +43,7 @@ curl https://alertizen.herokuapp.com/api/sector/1
 }
 ```
 
-This endpoint retrieves a specific Sectors.
+This endpoint deletes a specific Sectors.
 
 ### HTTP Request
 
@@ -53,5 +53,12 @@ This endpoint retrieves a specific Sectors.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Sectors to find.
+ID | Required | The ID of the Sectors to delete.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Sectors by ID
+</aside>
 

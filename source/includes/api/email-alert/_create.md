@@ -58,7 +58,7 @@ curl https://alertizen.herokuapp.com/api/email-alerts
 }
 ```
 
-This endpoint create a Email Alert Settings.
+This endpoint creates a Email Alert Settings.
 
 ### HTTP Request
 
@@ -71,6 +71,12 @@ Parameter | Required | Description
 is_active | Optional | By default true
 email_id | Required | Email ID of the Email Alert Settings.
 owner | Required | ID of the User.
+
+
+
+<aside class="success">
+Remember — On success you will be able to create a Email Alert Settings
+</aside>
 
 
 

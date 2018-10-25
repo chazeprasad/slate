@@ -77,3 +77,10 @@ This endpoint retrieves all Text Alert Settings.
 
 `GET https://alertizen.herokuapp.com/api/text-alerts`
 
+
+
+
+<aside class="success">
+Remember — On success you will get a list of Text Alert Settings
+</aside>
+

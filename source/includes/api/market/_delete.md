@@ -44,7 +44,7 @@ curl https://alertizen.herokuapp.com/api/markets/1
 }
 ```
 
-This endpoint retrieves a specific markets.
+This endpoint deletes a specific markets.
 
 ### HTTP Request
 
@@ -54,5 +54,12 @@ This endpoint retrieves a specific markets.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the markets to find.
+ID | Required | The ID of the markets to delete.
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific markets by ID
+</aside>
+
 

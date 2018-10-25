@@ -72,3 +72,9 @@ This endpoint retrieves all Email Alert Settings.
 
 `GET https://alertizen.herokuapp.com/api/email-alerts`
 
+
+
+<aside class="success">
+Remember — On success you will get a list of Email Alert Settings 
+</aside>
+

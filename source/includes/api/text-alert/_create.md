@@ -61,7 +61,7 @@ curl https://alertizen.herokuapp.com/api/text-alerts
 }
 ```
 
-This endpoint create a Text Alert Settings.
+This endpoint creates a Text Alert Settings.
 
 ### HTTP Request
 
@@ -75,6 +75,13 @@ is_active | Optional | By default true
 phone_no | Required | Phone Number of the Text Alert Settings.
 phone_company | Required | Phone Company of the Text Alert Settings.
 owner | Required | ID of the User.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to create a Text Alert Settings
+</aside>
 
 
 

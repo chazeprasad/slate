@@ -50,7 +50,7 @@ curl https://alertizen.herokuapp.com/api/markets/1
 }
 ```
 
-This endpoint retrieves a specific markets.
+This endpoint updates a specific markets.
 
 ### HTTP Request
 
@@ -69,5 +69,11 @@ vertices | Optional | Coordinates of the markets
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the markets to find.
+ID | Required | The ID of the markets to update.
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific markets by ID
+</aside>
 

@@ -94,7 +94,7 @@ Alamofire.request(url, method: .post, parameters: payload, encoding: JSONEncodin
 
 ```
 
-This endpoint create a Alert.
+This endpoint creates a Alert.
 
 ### HTTP Request
 
@@ -112,6 +112,14 @@ address | Required | Address of the Alert
 lat | Required | Latitude of the Alert
 lng | Required | Longitude of the Alert
 msg_date_time | Required | Date and Time of the Alert
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to create an Alert
+</aside>
+
 
 
 

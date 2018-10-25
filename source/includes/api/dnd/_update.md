@@ -51,7 +51,7 @@ curl https://alertizen.herokuapp.com/api/sectors/1
 }
 ```
 
-This endpoint retrieves a specific Do Not Disturb Settings.
+This endpoint updates a specific Do Not Disturb Settings.
 
 ### HTTP Request
 
@@ -72,5 +72,12 @@ to | Optional | Stop Time of the Do Not Disturb Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Do Not Disturb Settings to find.
+ID | Required | The ID of the Do Not Disturb Settings to update.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Do Not Disturb Settings by ID
+</aside>
 

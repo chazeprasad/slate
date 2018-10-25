@@ -44,7 +44,7 @@ curl https://alertizen.herokuapp.com/api/text-alerts/1
 }
 ```
 
-This endpoint retrieves a specific Text Alert Settings.
+This endpoint deletes a specific Text Alert Settings.
 
 ### HTTP Request
 
@@ -54,5 +54,11 @@ This endpoint retrieves a specific Text Alert Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Text Alert Settings to find.
+ID | Required | The ID of the Text Alert Settings to delete.
 
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Text Alert Settings by ID
+</aside>

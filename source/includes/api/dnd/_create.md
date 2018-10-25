@@ -65,7 +65,7 @@ curl https://alertizen.herokuapp.com/api/dnds
 }
 ```
 
-This endpoint create a Do Not Disturb Settings.
+This endpoint creates a Do Not Disturb Settings.
 
 ### HTTP Request
 
@@ -80,6 +80,13 @@ scheduled | Optional | By default false
 from | Optional | Start Time of the Do Not Disturb Settings.
 to | Optional | Stop Time of the Do Not Disturb Settings.
 owner | Required | ID of the User.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to create a Do Not Disturb Settings
+</aside>
 
 
 

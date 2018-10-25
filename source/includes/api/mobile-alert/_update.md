@@ -49,7 +49,7 @@ curl https://alertizen.herokuapp.com/api/mobile-alerts/1
 }
 ```
 
-This endpoint retrieves a specific Mobile Alert Settings.
+This endpoint updates a specific Mobile Alert Settings.
 
 ### HTTP Request
 
@@ -70,5 +70,12 @@ os_version | Optional | OS Version of the Mobile.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Mobile Alert Settings to find.
+ID | Required | The ID of the Mobile Alert Settings to update.
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Mobile Alert Settings by ID
+</aside>
+
 

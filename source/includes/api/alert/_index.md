@@ -84,9 +84,17 @@ curl https://alertizen.herokuapp.com/api/alerts
 ]
 ```
 
-This endpoint retrieves all Alert.
+This endpoint retrieves all Alerts.
 
 ### HTTP Request
 
 `GET https://alertsizen.herokuapp.com/api/alerts`
+
+
+
+
+<aside class="success">
+Remember — On success you will get a list of Alerts
+</aside>
+
 

@@ -49,7 +49,7 @@ curl https://alertizen.herokuapp.com/api/alerts/1
 }
 ```
 
-This endpoint retrieves a specific Alert.
+This endpoint updates a specific Alert.
 
 ### HTTP Request
 
@@ -74,7 +74,13 @@ msg_date_time | Optional | Date and Time of the Alert
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Alert to find.
+ID | Required | The ID of the Alert to update.
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Alert by Id
+</aside>
+
 
 
 

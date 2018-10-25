@@ -59,3 +59,9 @@ Parameter | Required | Description
 --------- | ------- | -----------
 ID | Required | The ID of the Email Alerts Settings to find.
 
+
+
+<aside class="success">
+Remember — On success you will get a specific Email Alert Settings by ID
+</aside>
+

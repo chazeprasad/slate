@@ -50,7 +50,7 @@ curl https://alertizen.herokuapp.com/api/sectors/1
 }
 ```
 
-This endpoint retrieves a specific Sectors.
+This endpoint updates a specific Sectors.
 
 ### HTTP Request
 
@@ -69,5 +69,11 @@ vertices | Optional | Coordinates of the Sectors
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Sectors to find.
+ID | Required | The ID of the Sectors to update.
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Sectors by ID
+</aside>
 

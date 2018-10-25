@@ -44,7 +44,7 @@ curl https://alertizen.herokuapp.com/api/email-alerts/1
 }
 ```
 
-This endpoint retrieves a specific Email Alert Settings.
+This endpoint deletes a specific Email Alert Settings.
 
 ### HTTP Request
 
@@ -54,5 +54,12 @@ This endpoint retrieves a specific Email Alert Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Email Alert Settings to find.
+ID | Required | The ID of the Email Alert Settings to delete.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Email Alert Settings by ID
+</aside>
 

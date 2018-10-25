@@ -79,3 +79,9 @@ This endpoint retrieves all Do Not Disturb Settings.
 
 `GET https://alertizen.herokuapp.com/api/dnds`
 
+
+
+<aside class="success">
+Remember — On success you will get a list of Do Not Disturb Settings
+</aside>
+

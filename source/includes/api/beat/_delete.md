@@ -41,7 +41,7 @@ curl https://alertizen.herokuapp.com/api/beats/1
 }
 ```
 
-This endpoint retrieves a specific Beats.
+This endpoint deletes a specific Beats.
 
 ### HTTP Request
 
@@ -52,4 +52,11 @@ This endpoint retrieves a specific Beats.
 Parameter | Required | Description
 --------- | ------- | -----------
 ID | Required | The ID of the Beats to find.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Beats by ID
+</aside>
 

@@ -56,7 +56,7 @@ curl https://alertizen.herokuapp.com/api/beats
 }
 ```
 
-This endpoint create a Beats.
+This endpoint creates a Beats.
 
 ### HTTP Request
 
@@ -68,6 +68,12 @@ Parameter | Required | Description
 --------- | ------- | -----------
 beat_name | Required | Name of the beat
 vertices | Required | Coordinates of the Beats
+
+
+<aside class="success">
+Remember — On success you will be able to create a Beats
+</aside>
+
 
 
 

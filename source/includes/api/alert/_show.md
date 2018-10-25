@@ -64,3 +64,10 @@ Parameter | Required | Description
 --------- | ------- | -----------
 ID | Required | The ID of the Alert to find.
 
+
+
+<aside class="success">
+Remember — On success you will be able to get a specific Alert by Id
+</aside>
+
+

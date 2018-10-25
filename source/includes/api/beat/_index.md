@@ -72,3 +72,9 @@ This endpoint retrieves all Beats.
 
 `GET https://alertizen.herokuapp.com/api/Beats`
 
+
+
+<aside class="success">
+Remember — On success you will be able to get a list of Beats
+</aside>
+

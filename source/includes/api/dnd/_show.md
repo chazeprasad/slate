@@ -63,3 +63,10 @@ Parameter | Required | Description
 --------- | ------- | -----------
 ID | Required | The ID of the Do Not Disturb Settings to find.
 
+
+
+
+<aside class="success">
+Remember — On success you will get a specific Do Not Disturb Settings by ID
+</aside>
+

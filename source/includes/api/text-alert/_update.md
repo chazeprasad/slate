@@ -51,7 +51,7 @@ curl https://alertizen.herokuapp.com/api/text-alerts/1
 }
 ```
 
-This endpoint retrieves a specific Text Alert Settings.
+This endpoint updates a specific Text Alert Settings.
 
 ### HTTP Request
 
@@ -71,5 +71,13 @@ phone_company | Optional | Phone Company of the Text Alert Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Text Alert Settings to find.
+ID | Required | The ID of the Text Alert Settings to update.
+
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to update a specific Text Alert Settings by ID
+</aside>
 

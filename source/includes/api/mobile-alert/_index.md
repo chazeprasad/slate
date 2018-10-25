@@ -79,3 +79,9 @@ This endpoint retrieves all Mobile Alert Settings.
 
 `GET https://alertizen.herokuapp.com/api/mobile-alerts`
 
+
+
+<aside class="success">
+Remember — On success you will get a list of Mobile Alert Settings
+</aside>
+

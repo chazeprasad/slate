@@ -56,7 +56,7 @@ curl https://alertizen.herokuapp.com/api/markets
 }
 ```
 
-This endpoint create a markets.
+This endpoint creates a markets.
 
 ### HTTP Request
 
@@ -68,6 +68,13 @@ Parameter | Required | Description
 --------- | ------- | -----------
 market_name | Required | Name of the market
 vertices | Required | Coordinates of the markets
+
+
+
+<aside class="success">
+Remember — On success you will be able to create a markets
+</aside>
+
 
 
 

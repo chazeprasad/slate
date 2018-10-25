@@ -58,7 +58,7 @@ curl https://alertizen.herokuapp.com/api/sectors
 }
 ```
 
-This endpoint create a Sectors.
+This endpoint creates a Sectors.
 
 ### HTTP Request
 
@@ -70,6 +70,13 @@ Parameter | Required | Description
 --------- | ------- | -----------
 sector_name | Required | Name of the Sector
 vertices | Required | Coordinates of the Sectors
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to create Sectors
+</aside>
 
 
 

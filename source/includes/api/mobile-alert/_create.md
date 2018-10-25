@@ -65,7 +65,7 @@ curl https://alertizen.herokuapp.com/api/mobile-alerts
 }
 ```
 
-This endpoint create a Mobile Alert Settings.
+This endpoint creates a Mobile Alert Settings.
 
 ### HTTP Request
 
@@ -80,6 +80,13 @@ device_token | Required | Device Token of  of the Mobile.
 os_name | Required | OS Name of the Mobile.
 os_version | Required | OS Version of the Mobile.
 owner | Required | ID of the User.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to create a Mobile Alert Settings
+</aside>
 
 
 

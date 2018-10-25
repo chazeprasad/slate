@@ -41,7 +41,7 @@ curl https://alertizen.herokuapp.com/api/alerts/1
 }
 ```
 
-This endpoint retrieves a specific Alert.
+This endpoint deletes a specific Alert.
 
 ### HTTP Request
 
@@ -51,5 +51,12 @@ This endpoint retrieves a specific Alert.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Alert to find.
+ID | Required | The ID of the Alert to delete.
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Alert by ID
+</aside>
+
 

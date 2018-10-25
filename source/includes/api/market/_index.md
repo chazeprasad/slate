@@ -74,3 +74,10 @@ This endpoint retrieves all Markets.
 
 `GET https://alertizen.herokuapp.com/api/markets`
 
+
+
+
+<aside class="success">
+Remember — On success you will get a list of markets
+</aside>
+

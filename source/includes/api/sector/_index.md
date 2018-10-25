@@ -72,3 +72,10 @@ This endpoint retrieves all Sectors.
 
 `GET https://alertizen.herokuapp.com/api/sectors`
 
+
+
+
+<aside class="success">
+Remember — On success you will get a list of Sectors
+</aside>
+

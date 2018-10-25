@@ -43,7 +43,7 @@ curl https://alertizen.herokuapp.com/api/dnds/1
 }
 ```
 
-This endpoint retrieves a specific Do Not Disturb Settings.
+This endpoint deletes a specific Do Not Disturb Settings.
 
 ### HTTP Request
 
@@ -53,5 +53,12 @@ This endpoint retrieves a specific Do Not Disturb Settings.
 
 Parameter | Required | Description
 --------- | ------- | -----------
-ID | Required | The ID of the Do Not Disturb Settings to find.
+ID | Required | The ID of the Do Not Disturb Settings to delete.
+
+
+
+
+<aside class="success">
+Remember — On success you will be able to delete a specific Do Not Disturb Settings by ID
+</aside>
 
